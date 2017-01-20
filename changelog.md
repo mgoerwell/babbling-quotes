@@ -19,3 +19,7 @@ V 1.03 (Matt)
 Added a what listing to the welcome page.
 adjusted return from quotes to reflect above change.
 adjusted style guidelines
+
+V 1.04 (Alex)
+Added a new random function to welcome.php that randomly selects and displays a person and quote
+usage: welcome/random
